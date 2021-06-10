@@ -86,6 +86,8 @@ Using the reviews array above:
   1. log only Julius' feedback to the console - no function needed 
 */
 
+console.log ('task 3', reviews[5].feedback);
+
 
 
 
@@ -95,6 +97,8 @@ Using the reviews array above do the following: (no function needed)
   2. log the whole array to the console, make sure the new review is inside of it   
 */
 
+reviews.push({ name:'Victor', rating: 4, feedback: 'This place is ok.'});
+console.log ('task 4', reviews)
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 5: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
